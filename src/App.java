@@ -7,7 +7,6 @@ public class App {
         
         System.out.println("Enter a string: ");        
         word = scanner.nextLine();
-        System.out.println(word);
 
         char[] array = word.toCharArray();
         int length = word.length();
